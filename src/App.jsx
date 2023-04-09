@@ -7,24 +7,24 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
 import { EffectCoverflow, Pagination, Navigation } from 'swiper';
-import slide_image_01 from "./assets/images/img-01.jpg";
-import slide_image_02 from "./assets/images/img-02.jpg";
-import slide_image_03 from "./assets/images/img-03.jpg";
-import slide_image_04 from "./assets/images/img-04.jpg";
-import slide_image_05 from "./assets/images/img-05.jpg";
-import slide_image_06 from "./assets/images/img-06.jpg";
-import slide_image_07 from "./assets/images/img-07.jpg";
-import slide_image_08 from "./assets/images/img-08.jpg";
-import slide_image_09 from "./assets/images/img-09.jpg";
-import slide_image_10 from "./assets/images/img-10.jpg";
-import slide_image_11 from "./assets/images/img-11.jpg";
-import slide_image_12 from "./assets/images/img-12.jpg";
-import slide_image_13 from "./assets/images/img-13.jpg";
-import slide_image_14 from "./assets/images/img-14.jpg";
-import slide_image_15 from "./assets/images/img-15.jpg";
-import slide_image_16 from "./assets/images/img-16.jpg";
-import slide_image_17 from "./assets/images/img-17.jpg";
-import slide_image_18 from "./assets/images/img-18.jpg";
+import slide_image_01 from "./assets/images/IMG-01.jpg";
+import slide_image_02 from "./assets/images/IMG-02.jpg";
+import slide_image_03 from "./assets/images/IMG-03.jpg";
+import slide_image_04 from "./assets/images/IMG-04.jpg";
+import slide_image_05 from "./assets/images/IMG-05.jpg";
+import slide_image_06 from "./assets/images/IMG-06.jpg";
+import slide_image_07 from "./assets/images/IMG-07.jpg";
+import slide_image_08 from "./assets/images/IMG-08.jpg";
+import slide_image_09 from "./assets/images/IMG-09.jpg";
+import slide_image_10 from "./assets/images/IMG-10.jpg";
+import slide_image_11 from "./assets/images/IMG-11.jpg";
+import slide_image_12 from "./assets/images/IMG-12.jpg";
+import slide_image_13 from "./assets/images/IMG-13.jpg";
+import slide_image_14 from "./assets/images/IMG-14.jpg";
+import slide_image_15 from "./assets/images/IMG-15.jpg";
+import slide_image_16 from "./assets/images/IMG-16.jpg";
+import slide_image_17 from "./assets/images/IMG-17.jpg";
+import slide_image_18 from "./assets/images/IMG-18.jpg";
 
 function App() {
 
